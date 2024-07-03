@@ -4,11 +4,11 @@ Ioncube Decoder Software For Windows,Decrypt Ioncube 11 & 12 & 13 With PHP 7.1,7
 ## Demo
 For Demo Decoding From PHP 7.1 To 8.2 You Can Free Reach US At [@tahaghafuri](https://t.me/tahaghafuri/).
 
-## Warning
-Iranian files and copyrighted files cannot be decoded, you will be banned if you send them!
+## Warning!!
+<b>Iranian files and copyrighted files cannot be decoded, you will be banned if you send them!</b>
 
 ## Note
-A valid serial number is required to use the decoder.
+<b>A valid serial number is required to use the decoder.</b>
 
 ## Description
 This project is designed to decode Ioncube encoded files. It includes the necessary tools and scripts to perform the decoding process.
