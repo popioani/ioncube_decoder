@@ -10,6 +10,19 @@ For Demo Decoding From PHP 7.1 To 8.2 You Can Free Reach US At [@tahaghafuri](ht
 ## Warning!!
 <b>Iranian files and copyrighted files cannot be decoded, you will be banned if you send them!</b>
 
+## هشدار !!
+<b>فایل های ایرانی و فایل های کپی رایت رمزگشایی نمی شوند و در صورت ارسال بن خواهید شد!</b>
+
+## Price
+1 File -> 4 Euro<br>
+25 File -> 48 Euro<br>
+<b>Only Payment Method Is Crypto!</b><br>
+
+## هزینه
+یک فایل -> 240 هزار تومان<br>
+25 فایل -> 3 میلیون تومان<br>
+<b>تنها روش پرداخت کارت به کارت و ارز دیجیتال هست!</b>
+
 ## Note
 <b>A valid serial number is required to use the decoder.</b>
 
