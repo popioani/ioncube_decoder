@@ -13,6 +13,9 @@ For Demo Decoding From PHP 7.1 To 8.2 You Can Free Reach US At [@tahaghafuri](ht
 ## Note
 <b>A valid serial number is required to use the decoder.</b>
 
+## VirusTotal
+[https://www.virustotal.com/gui/url/e2f223d4f97bdf937ef41664d002aee937fb61e785a8f6ae97dd2e887444457e/](https://www.virustotal.com/gui/url/e2f223d4f97bdf937ef41664d002aee937fb61e785a8f6ae97dd2e887444457e/).
+
 ## Description
 This project is designed to decode Ioncube encoded files. It includes the necessary tools and scripts to perform the decoding process.
 
