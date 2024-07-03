@@ -21,7 +21,8 @@ For Demo Decoding From PHP 7.1 To 8.2 You Can Free Reach US At [@tahaghafuri](ht
 ## هزینه
 یک فایل -> 240 هزار تومان<br>
 25 فایل -> 3 میلیون تومان<br>
-<b>تنها روش پرداخت کارت به کارت و ارز دیجیتال هست!</b>
+<b>تنها روش پرداخت کارت به کارت هست!</b><br>
+<b>بدلیل اینکه سازنده دیکدر هستم از بابت قیمت نگران نباشید،قیمت درج شده وابسته به ارز و دلار نیست؛براتون تخفیف هم لحاظ میشه!</b>
 
 ## Note
 <b>A valid serial number is required to use the decoder.</b>
