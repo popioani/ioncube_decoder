@@ -1,3 +1,6 @@
+# Ioncube Encoder Cracked
+[https://github.com/tahaghafuri/ioncube_encoder](https://github.com/tahaghafuri/ioncube_encoder).
+
 # Ioncube Decoder
 Ioncube Decoder Software For Windows,Decrypt Ioncube 11 & 12 & 13 With PHP 7.1,7.2,7.4,8.1,8.2.
 
