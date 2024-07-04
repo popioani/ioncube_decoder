@@ -5,7 +5,7 @@
 Ioncube Decoder Software For Windows,Decrypt Ioncube 11 & 12 & 13 With PHP 7.1,7.2,7.4,8.1,8.2.
 
 ## Note
-<b>A valid serial number is required to use the decoder.</b>
+<b>ِDon't Contact Me!</b>
 
 ## VirusTotal
 [https://www.virustotal.com/gui/url/e2f223d4f97bdf937ef41664d002aee937fb61e785a8f6ae97dd2e887444457e/](https://www.virustotal.com/gui/url/e2f223d4f97bdf937ef41664d002aee937fb61e785a8f6ae97dd2e887444457e/).
