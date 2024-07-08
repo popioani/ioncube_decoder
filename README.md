@@ -4,9 +4,8 @@
 # Ioncube Decoder
 Ioncube Decoder Software For Windows,Decrypt Ioncube 11 & 12 & 13 With PHP 7.1,7.2,7.4,8.1,8.2.
 
-## Warning
-<b>Contact Me For It = Block.</b><br>
-<b>I will not share any information about this software, please don't message me about it!</b>
+## راهنما
+[https://tagservice.ir/?id=6](https://tagservice.ir/?id=6)
 
 ## VirusTotal
 [https://www.virustotal.com/gui/url/e2f223d4f97bdf937ef41664d002aee937fb61e785a8f6ae97dd2e887444457e/](https://www.virustotal.com/gui/url/e2f223d4f97bdf937ef41664d002aee937fb61e785a8f6ae97dd2e887444457e/).
